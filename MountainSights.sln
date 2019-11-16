@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MountainSights", "MountainSights\MountainSights.csproj", "{EBCDEA13-4739-4222-9406-A08C96604B39}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EBCDEA13-4739-4222-9406-A08C96604B39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBCDEA13-4739-4222-9406-A08C96604B39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBCDEA13-4739-4222-9406-A08C96604B39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBCDEA13-4739-4222-9406-A08C96604B39}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5AEBCF4C-1189-4062-815E-DE513F7992D2}
+	EndGlobalSection
+EndGlobal
